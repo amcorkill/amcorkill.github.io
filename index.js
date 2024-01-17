@@ -14,7 +14,6 @@ typewriter
 
 
 
-
 //BUTTON 1
 var modal1 = document.getElementById("modal1");
 
